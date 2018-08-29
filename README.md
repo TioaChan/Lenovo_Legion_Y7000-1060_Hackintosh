@@ -4,15 +4,13 @@
 
 CPU信息：Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
 
-步进：A 型号：E 系列：6 扩展型号：9E 扩展系列：6
+主板芯片组：Intel Cannon Lake HM370, Intel Coffee Lake-H
 
-主板信息：LENOVO (联想) LNVNB161216
+内存信息：8066 MB  (DDR4 SDRAM)
 
-内存信息：8.0 GB (8.0 GB / )
+显卡信息：NVIDIA GeForce GTX 1060 6GB
 
-显卡信息：NVIDIA GeForce GTX 1060
-
-Intel(R) UHD Graphics 630
+Intel(R) UHD Graphics 630 1GB
 
 
 硬盘信息：HFM128GDHTNG-8310A (128.0 GB)
@@ -20,18 +18,11 @@ Intel(R) UHD Graphics 630
 Crucial_CT525MX300SSD1 (525.0 GB)
 
 
-网卡信息：Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC (WLAN)
+网卡信息：Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC
 
-Realtek PCIe GbE Family Controller (以太网)
-
-
-声卡信息：Realtek High Definition Audio
-
-英特尔(R) 显示器音频
+Realtek PCIe GbE Family Controller
 
 
-显示设备：京东方 BOE [BOE06FB] 15.3英寸
+声卡信息：Realtek ALC236 @ Intel Cannon Lake PCH - cAVS (Audio, Voice, Speech)
 
-
-
---------------本信息复制自卡吧工具箱（kbtool.cn）--------------
+音频适配器	Intel Kaby Lake HDMI @ Intel Cannon Lake PCH - cAVS (Audio, Voice, Speech)
