@@ -371,7 +371,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>15</integer>
+			<integer>0</integer>
 		</dict>
 		<key>FakeID</key>
 		<dict>
