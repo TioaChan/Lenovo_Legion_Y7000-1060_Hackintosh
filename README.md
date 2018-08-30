@@ -1,6 +1,11 @@
 # Lenovo_Legion_Y7000-1060_Hackintosh
 
 ------
+###安装10.13.6时存在以下问题：
+核显显存7M；
+找不到以太网卡；
+声音仅耳机插口，HDMI未测试，内建音响无效
+
 ###硬件基本信息如下：
 
 |项目|信息|
@@ -18,3 +23,4 @@
 ||Realtek PCIe GbE Family Controller|
 |声卡信息|Realtek ALC236 @ Intel Cannon Lake PCH - cAVS (Audio, Voice, Speech)|
 ||Intel Kaby Lake HDMI @ Intel Cannon Lake PCH - cAVS (Audio, Voice, Speech)|
+
