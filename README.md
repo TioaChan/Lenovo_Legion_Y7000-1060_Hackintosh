@@ -1,5 +1,10 @@
 # Lenovo_Legion_Y7000-1060_Hackintosh
 
+###
+推荐[xiaoMGitHub](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh_Clover)的配置文件，可以正常使用
+
+安装10.15.X时需要设置BIOS，详情[2018款Y7000_Y7000P_Y530升级10.15.xBIOS设置说明.md](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh_Clover/blob/master/2018%E6%AC%BEY7000_Y7000P_Y530%E5%8D%87%E7%BA%A710.15.xBIOS%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.md)
+
 ------
 ### 安装10.13.6时存在以下问题：
 
